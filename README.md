@@ -14,7 +14,7 @@
  
 <br>
  
-### Meus redes sociais abaixo!
+### Minhas redes sociais abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCx0nVE9UXgmz8-rX3AyDGzg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
