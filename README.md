@@ -1,4 +1,4 @@
-## Bem-vindo(a), eu sou Matheus Menezes e este é meu perfil.
+## Bem-vindo(a), eu sou Matheus Menezes e estes são meus status.
 
  <div>
    <a href="https://github.com/MatheusMenezesvm">
